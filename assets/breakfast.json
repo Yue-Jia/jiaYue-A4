@@ -1,0 +1,19 @@
+{
+    "breakfast": [
+      {
+        "name": "egg",
+        "price": "0.5",
+        "calories": "78"
+      },
+      {
+        "name": "fruit salad",
+        "price": "2.5",
+        "calories": "200"
+      },
+      {
+        "name": "pancakes",
+        "price": "2.5",
+        "calories": "253"
+      }
+    ]
+  }

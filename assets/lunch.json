@@ -1,0 +1,19 @@
+{
+    "lunch": [
+      {
+        "name": "Chicken Avocado BLT Wrap",
+        "price": "5.5",
+        "calories": "340"
+      },
+      {
+        "name": "Crunchy Mexican Salad with Spicy Cilantro Vinaigrette",
+        "price": "6.0",
+        "calories": "404"
+      },
+      {
+        "name": "Pizza",
+        "price": "4.5",
+        "calories": "376"
+      }
+    ]
+  }
